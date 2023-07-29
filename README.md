@@ -1,6 +1,7 @@
 # bobdao-commune
 
 **What really is the problem? 🤔**
+<br>
 In today's rapidly evolving tech landscape, developers require a thriving community that can
 
 provide a cohesive space to learn.
