@@ -2,17 +2,18 @@
 
 **What really is the problem? 🤔**
 <br>
-In today's rapidly evolving tech landscape, developers require a thriving community that can
+Welcome to BOBDAO Commune, the ultimate platform where developers unite to collaborate and innovate. Our vibrant community connects coding enthusiasts, seasoned professionals, and aspiring developers.
+In today's rapidly evolving tech landscape, developers require a thriving community that can:
 
-provide a cohesive space to learn.
-provide a collaborative space to build together.
-find work remotely.
+-a cohesive space to learn.
+-provide a collaborative space to build together.
+-find work remotely.
+
 BOBDAO Commune addresses this need by offering a virtual gathering spot where developers can connect, share knowledge, and stay updated with the latest trends.
 
 **Gaps in the Current Landscape:**
 
 -Limited Collaboration Opportunities
-
 -Too many applications to juggle & too many steps to follow.
 No proven platform to showcase your skills in a proof-based way.
 -Too many forms to fill.
