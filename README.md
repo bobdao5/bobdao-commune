@@ -6,7 +6,9 @@ Welcome to BOBDAO Commune, the ultimate platform where developers unite to colla
 In today's rapidly evolving tech landscape, developers require a thriving community that can:
 
 -a cohesive space to learn.
+<br>
 -provide a collaborative space to build together.
+<br>
 -find work remotely.
 
 BOBDAO Commune addresses this need by offering a virtual gathering spot where developers can connect, share knowledge, and stay updated with the latest trends.
