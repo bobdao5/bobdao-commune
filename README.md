@@ -29,3 +29,7 @@ Solution Statement -introducing The Commune by bobdao
 -EventPro-a platform host online/offline event seamlessly and find services for your events, and manage guests.
 <br>
 -CommuneHuddle- the platform to connect and network with others and showcase your work and skillsets.
+
+
+Get to know more about our project:
+https://bobdao.gitbook.io/bobdao/
